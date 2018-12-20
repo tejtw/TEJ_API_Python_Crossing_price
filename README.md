@@ -1,0 +1,2 @@
+# TEJAPI_Python_Crossing_price
+找出各檔台股有出現黃金交叉與死亡交叉的日期
